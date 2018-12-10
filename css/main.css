@@ -1,0 +1,35 @@
+.fix-progress-bar {
+    margin-top: 7px;
+}
+
+.progress-bar-orange {
+    background-color: orange !important;
+}
+
+.progress-bar-yellow {
+    background-color: rgba(246, 191, 1, 0.8) !important;
+}
+
+.progress-bar-red {
+    background-color: rgba(231, 69, 14, 0.8) !important;
+}
+
+.progress-bar-purple {
+    background-color: rgba(119, 22, 221, 0.8) !important;
+}
+
+.progress-bar-green {
+    background-color: rgba(129, 221, 22, 0.8) !important;
+}
+
+.progress-bar-gray {
+    background-color: #4d4d4d !important;
+}
+
+.progress-bar-blue {
+    background-color: rgba(7, 11, 223, 0.8) !important;
+}
+
+.progress-bar-lightblue {
+    background-color: rgba(56, 59, 229, 0.7) !important;
+}
